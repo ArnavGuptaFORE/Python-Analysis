@@ -1,6 +1,6 @@
 # 📘 Jupyter Notebook Archive
 
-> A curated repository of Python notebooks exploring programming concepts, data analysis techniques, and applied statistics using Jupyter.
+> A curated repository of Python notebooks exploring programming concepts, data analysis techniques and applied statistics using Jupyter.
 
 ---
 
@@ -14,7 +14,7 @@ This repository contains a collection of Jupyter notebooks developed as part of 
 - **Exploratory data analysis (EDA)**
 - **Basic machine learning workflows**
 
-Each notebook is documented with markdown cells, explaining the logic, methodology, and output where applicable. The purpose of this archive is to demonstrate hands-on proficiency with core data science tools and analytical reasoning.
+Each notebook is documented with markdown cells, explaining the logic, methodology and output where applicable. The purpose of this archive is to demonstrate hands-on proficiency with core data science tools and analytical reasoning.
 
 ---
 
