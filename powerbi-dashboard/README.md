@@ -4,7 +4,7 @@ This Power BI dashboard analyzes sales performance across regions, product categ
 
 ## 📊 Dashboard Preview
 
-![Dashboard Screenshot](dashboard-screenshot.png)
+![Dashboard Screenshot](C:\Users\Arnav\Desktop\AshaCare_Dashboard.png)
 
 ## 🔍 Key Features
 - Year-over-year growth comparison
